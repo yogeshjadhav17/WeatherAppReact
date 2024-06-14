@@ -1,0 +1,27 @@
+/*body{
+
+  display:flex;
+  flex-direction: column;
+  background-color: blue;
+  font-size:20px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.list-of-tasks-todo{
+
+padding-top:10px;
+width:400px;
+  
+}
+
+.task-name{
+
+cursor:pointer;
+}
+
+.completed-task{
+
+text-decoration: line-through;
+}*/
